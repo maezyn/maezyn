@@ -27,4 +27,4 @@ I'm **Mason**, a developer, researcher, and indie hacker with over a decade of p
 
 #
 
-For any inquiries, feel free to [contact me (TDB)](#).
+For any inquiries, feel free to [contact me](https://maezyn.com/email).
