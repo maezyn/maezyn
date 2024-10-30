@@ -1,8 +1,10 @@
-I'm **Mason**, a developer, researcher, and indie hacker with over a decade of programming experience in many different languages and platforms.
+I'm **Mason**, a developer and researcher.
+
+I have over a decade of experience in many different languages and platforms. My research focuses on the intersection of computing with other scientific domains.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaezyn.com&style=for-the-badge&labelColor=%23c2d9ff&color=%234fa1fd)](https://maezyn.com)
-[![GitHub User's Stars](https://img.shields.io/github/stars/maezyn?style=for-the-badge&logo=github&logoColor=%234fa1fd&logoSize=auto&labelColor=%23c2d9ff&color=%234fa1fd)](https://youtube.com/@Maezyn)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgFw7WeyiECm5wEOrVTfzsg?style=for-the-badge&logo=youtube&logoColor=%234fa1fd&logoSize=auto&labelColor=%23c2d9ff&color=%234fa1fd)](https://youtube.com/@Maezyn)
+[![GitHub User's Stars](https://img.shields.io/github/stars/maezyn?style=for-the-badge&logo=github&logoColor=%234fa1fd&logoSize=auto&labelColor=%23c2d9ff&color=%234fa1fd)](https://maezyn.com)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgFw7WeyiECm5wEOrVTfzsg?style=for-the-badge&logo=youtube&logoColor=%234fa1fd&logoSize=auto&labelColor=%23c2d9ff&color=%234fa1fd)](https://maezyn.com)
 
 #
 
@@ -28,4 +30,4 @@ I'm **Mason**, a developer, researcher, and indie hacker with over a decade of p
 
 #
 
-For any inquiries, feel free to [contact me](https://maezyn.com/email).
+I am available for freelance or consulting work. For any inquiries, feel free to [contact me](https://maezyn.com/email).
