@@ -30,4 +30,4 @@ I have over a decade of experience in many different languages and platforms. My
 
 #
 
-I am available for freelance or consulting work. For any inquiries, feel free to [contact me](https://maezyn.com/email).
+I am available for freelance or consulting work. For any inquiries, feel free to [contact me](https://maezyn.com/contact).
