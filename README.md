@@ -11,14 +11,18 @@ I have over a decade of experience in many different languages and platforms. My
 #### PROJECTS
 
 
-[Diablo](https://github.com/diablo-lang/diablo), a functional language built with a multi-pass bytecode compiler and a stack-based virtual machine that is designed to augment research in information security and the natural sciences.
+[Diablo LLVM](https://github.com/diablo-lang/diablo_llvm), a statically typed, functional language compiled to LLVM IR that is designed to augment research in information security and the natural sciences.
 
-[![Crystal](https://img.shields.io/badge/Crystal-%234fa1fd?style=flat-square&logo=crystal&logoColor=%23c2d9ff)](#)
+[![OCaml](https://img.shields.io/badge/OCaml-%234fa1fd?style=flat-square&logo=ocaml&logoColor=%23c2d9ff)](#)
 
 [Dolos](https://github.com/maezyn/dolos), a metamorphic engine featuring obfuscation techniques including garbage code insertion and register usage exchange.
 
 [![Rust](https://img.shields.io/badge/Rust-%234fa1fd?style=flat-square&logo=rust&logoColor=%23c2d9ff)](#)
 [![Assembly](https://img.shields.io/badge/x86%20Assembly-%234fa1fd?style=flat-square&logo=intel&logoColor=%23c2d9ff)](#)
+
+[Diablo VM](https://github.com/diablo-lang/diablo), a multi-pass, bytecode interpreter with a stack-based virtual machine that promotes functional programming concepts.
+
+[![Crystal](https://img.shields.io/badge/Crystal-%234fa1fd?style=flat-square&logo=crystal&logoColor=%23c2d9ff)](#)
 
 [Imp VM](https://github.com/diablo-lang/imp-vm), a one-pass, bytecode interpreter with a stack-based virtual machine based on the [clox](http://craftinginterpreters.com/a-bytecode-virtual-machine.html) derivative of the Lox language.
 
