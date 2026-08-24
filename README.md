@@ -2,9 +2,9 @@ I'm **Mason**, a developer and researcher.
 
 I have over a decade of experience in many different languages and platforms. My research focuses on the intersection of computing with other scientific domains.
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaezyn.com&style=for-the-badge&labelColor=%23c2d9ff&color=%234fa1fd)](https://maezyn.com)
-[![GitHub User's Stars](https://img.shields.io/github/stars/maezyn?style=for-the-badge&logo=github&logoColor=%234fa1fd&logoSize=auto&labelColor=%23c2d9ff&color=%234fa1fd)](https://maezyn.com)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgFw7WeyiECm5wEOrVTfzsg?style=for-the-badge&logo=youtube&logoColor=%234fa1fd&logoSize=auto&labelColor=%23c2d9ff&color=%234fa1fd)](https://maezyn.com)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsonberne.com&style=for-the-badge&labelColor=%23c2d9ff&color=%234fa1fd)](https://sonberne.com)
+[![GitHub User's Stars](https://img.shields.io/github/stars/sonberne?style=for-the-badge&logo=github&logoColor=%234fa1fd&logoSize=auto&labelColor=%23c2d9ff&color=%234fa1fd)](https://sonberne.com)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgFw7WeyiECm5wEOrVTfzsg?style=for-the-badge&logo=youtube&logoColor=%234fa1fd&logoSize=auto&labelColor=%23c2d9ff&color=%234fa1fd)](https://sonberne.com)
 
 #
 
@@ -15,7 +15,7 @@ I have over a decade of experience in many different languages and platforms. My
 
 [![OCaml](https://img.shields.io/badge/OCaml-%234fa1fd?style=flat-square&logo=ocaml&logoColor=%23c2d9ff)](#)
 
-[Dolos](https://github.com/maezyn/dolos), a metamorphic engine featuring obfuscation techniques including garbage code insertion and register usage exchange.
+[Dolos](https://github.com/sonberne/dolos), a metamorphic engine featuring obfuscation techniques including garbage code insertion and register usage exchange.
 
 [![Rust](https://img.shields.io/badge/Rust-%234fa1fd?style=flat-square&logo=rust&logoColor=%23c2d9ff)](#)
 [![Assembly](https://img.shields.io/badge/x86%20Assembly-%234fa1fd?style=flat-square&logo=intel&logoColor=%23c2d9ff)](#)
@@ -34,4 +34,4 @@ I have over a decade of experience in many different languages and platforms. My
 
 #
 
-I am available for freelance or consulting work. For any inquiries, feel free to [contact me](https://maezyn.com/contact).
+I am available for freelance or consulting work. For any inquiries, feel free to [contact me](https://sonberne.com/contact).
